@@ -1,19 +1,9 @@
 # Python_projects
 
-projects = [
-    {
-        "name": "Project 1",
-        "description": "This is the description of Project 1",
-        "instructor": "John Doe"
-    },
-    {
-        "name": "Project 2",
-        "description": "This is the description of Project 2",
-        "instructor": "Jane Smith"
-    },
-    {
-        "name": "Project 3",
-        "description": "This is the description of Project 3",
-        "instructor": "Bob Johnson"
-    }
-]
+## List of Projects included in this repository
+
+- **Linear Regression with Numpy and Python**:(https://www.coursera.org/projects/linear-regression-numpy-python)
+  - Understanding the basics of Univariate Linear Regression using Numpy in python
+  - Creating a gradient descent algorithm and implement using numpy
+  - Visualize a given data set and various functions in the gradient descent algorithm using seaborn and matplotlib
+  

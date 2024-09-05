@@ -14,8 +14,14 @@
   - Compare and contrast linear classification methods
   - Write Python code that implements various classification techniques
 
-  - **Build a Machine Learning Web App with Streamlit and Python**
+- **Build a Machine Learning Web App with Streamlit and Python**
 (https://www.coursera.org/projects/machine-learning-streamlit-python)
   - Build an interactive web application with Streamlit and Python
   - Train Logistic Regression, Random Forest, and Support Vector Classifiers using scikit-learn
   - Plot evaluation metrics for binary classification algorithms
+
+- **Build a Data Science Web App with Streamlit and Python**
+(https://www.coursera.org/learn/data-science-streamlit-python)
+  - Build an interactive web application with Streamlit and Python for data visualization of a large data set
+  - Utilize Pandas for the data manipulation in data science work flows
+  - Interpret the results of the analysis of the large data set
